@@ -1,6 +1,6 @@
 # SiteScan Python API Examples
 
-Example Python functions demonstrating how to use the SiteScan API to automate drone data processing workflows. This script shows practical implementations for project creation, image upload, processing initiation, and result download to ArcGIS Portal.
+Example Python functions demonstrating how to use the SiteScan API to automate drone data processing workflows. This script shows practical implementations for project creation, image upload, processing initiation, and result upload to ArcGIS Portal.
 
 ## Overview
 
